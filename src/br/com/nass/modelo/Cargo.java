@@ -1,4 +1,10 @@
 package br.com.nass.modelo;
 
-public class Cargo {
+public enum Cargo {
+
+    ASSISTENTE,
+    ANALISTA,
+    ESPECIALISTA,
+    GERENTE;
+
 }
