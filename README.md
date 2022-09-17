@@ -21,9 +21,13 @@ Neste curso pude conhecer e aprender como implementar os principios de SOLID em 
 Os conceitos aprendidos neste treinamento formam o acrônimo SOLID
 
 Single Responsibility Principle
+
 Open Closed Principle
+
 Liskov Substitution Principle
+
 Interface Segregation Principle
+
 Dependency Inversion Principle
 
 </p>
